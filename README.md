@@ -41,6 +41,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MS12112&bg_color=000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MS12112&layout=compact&bg_color=000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)
 
 #
@@ -51,21 +52,17 @@
   
   2- TÉCNICO LIVRE EM COMPUTAÇÃO E GAMES | Infocus
 
-- **🏆 Cursos Extracurricular**:
+- **🏆 Conhecimentos**:
 
-  1- Excel | Santander Open Academy
+  1- Microsoft Excel / Microsoft Word 
   
-  2- Fundamentos da TI - Hardware e Software | Fundação Bradesco Escola Virtual
+  2- Fundamentos de TI - Hardware e Software
   
-  3- HTML e CSS na Prática | Fundação Bradesco Escola Virutal
+  3- Desenvolvimento Web: HTML/CSS/JS
   
-  4- HTML Avançado | Fundação Bradesco Escola Virutal
+  4- Ética no Desenvolvimento de Sistemas
   
-  5- Ética no Desenvolvimento de Sistemas | Fundação Bradesco Escola Virutal
-  
-  6- Microsoft Word 2016 (Intermediário) | Fundação Bradesco Escola Virutal
-  
-  7- Fundamentos da TI - Hardware e Software | Fundação Bradesco Escola Virtual
+  5- COBOL/PYTHON/C++/JAVA
 
   
 
