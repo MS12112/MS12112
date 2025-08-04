@@ -1,70 +1,71 @@
+<div align="center">
+
 ## Contatos
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@mths_0111/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_mths/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos12112/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-santos12112" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-santos12112" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-santos12112" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@matheusyuseong5713" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-santos12112" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
+<h1 align="center">Fala aí, eu sou o Matheus 👋</h1>
 
-
-# Fala aí, eu sou o Matheus 👋
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas 
+<div align="center">
+  
+🎓 Formado em Análise e Desenvolvimento de Sistemas 
 
 🧠 Apaixonado por tecnologia, automação e soluções baseadas em dados 
 
-💻 Sempre aprendendo e evoluindo como desenvolvedor. 
+💻 Sempre aprendendo e evoluindo como desenvolvedor
 
 ### Sinta-se à vontade para explorar meus repositórios e contribuir!
+#
 
-
-## 🚀 Tecnologias e Ferramentas
-
-- **Programação**:
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-- **Desenvolvimento Web**:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-- **Banco de dados**:
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **Ferramentas**:
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MS12112&bg_color=000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MS12112&layout=compact&bg_color=000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)
+## 🚀 Tecnologias e Ferramentas 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="60" alt="gimp logo"  />
+</div>
 
 #
 
-- **🎓 Formação**:
-  
-  1- Tecnologo: Desenvolvimento e Analise de Sistemas | UNIFIEO (Centro Universitário FIEO)
-  
-  2- TÉCNICO LIVRE EM COMPUTAÇÃO E GAMES | Infocus
+###
 
-- **🏆 Conhecimentos**:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MS12112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MS12112&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-  1- Microsoft Excel / Microsoft Word 
-  
-  2- Fundamentos de TI - Hardware e Software
-  
-  3- Desenvolvimento Web: HTML/CSS/JS
-  
-  4- Ética no Desenvolvimento de Sistemas
-  
-  5- COBOL/PYTHON/C++/JAVA
-
-  
+###
 
 
 
