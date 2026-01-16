@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/@matheusyuseong5713" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/matheus-santos12112" target="_blank">
+  <a href="https://www.instagram.com/mth.s011/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
@@ -58,14 +58,6 @@
 
 #
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MS12112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MS12112&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 
 
