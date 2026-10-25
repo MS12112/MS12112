@@ -37,10 +37,10 @@
 ### Sinta-se à vontade para explorar meus repositórios e contribuir!
 #
 
-## 🚀 Tecnologias e Ferramentas 
+## 🚀 Tecnologias e Ferramentas
+
 <div align="center">
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f1fb871a-83f9-4a24-a537-b5dd09c63ee3" />
-/>
+  <img src="https://github.com/user-attachments/assets/f1fb871a-83f9-4a24-a537-b5dd09c63ee3" width="100" alt="Python">
 </div>
 
 #
