@@ -39,7 +39,8 @@
 
 ## 🚀 Tecnologias e Ferramentas 
 <div align="center">
-<img src:"https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f1fb871a-83f9-4a24-a537-b5dd09c63ee3" />
+/>
 </div>
 
 #
