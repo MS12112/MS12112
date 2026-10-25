@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/mth.s011/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
   </a>
-  <a href="mailto:m.santos12112@gmail.com" target="_blank">
+ <a href="mailto:m.santos12112@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
   </a>
 </div>
